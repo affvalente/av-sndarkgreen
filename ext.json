@@ -1,0 +1,17 @@
+{
+  "identifier": "com.githubandre.sn-avsndarkblue",
+  "name": "AV Dark Blue",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.1",
+  "description": "Standard Notes Dark theme with blue highlights",
+  "url": "https://cdn.jsdelivr.net/gh/affvalente/av-sndarkblue@master/darkblue.css",
+  "download_url": "https://github.com/affvalente/av-sndarkblue/archive/refs/heads/main.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/affvalente/av-sndarkblue@master/ext.json",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#090909",
+    "foreground_color": "#737373",
+    "border_color": "#151515"
+  }
+}
