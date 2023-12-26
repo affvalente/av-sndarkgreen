@@ -1,13 +1,14 @@
 :root {
   --foreground-color: #eeeeee;
   --background-color: #0f1011;
-  --highlight-color: #1f7bde;
+  --highlight-color: #245e18;
   --border-color: #0f1011;
   --sn-component-foreground-color: var(--foreground-color);
   --sn-component-background-color: transparent;
   --sn-component-foreground-highlight-color: var(--highlight-color);
   --sn-component-outer-border-color: transparent;
   --sn-component-inner-border-color: var(--foreground-color);
+  --sn-stylekit-accessory-tint-color-1: var(--highlight-color);
   --sn-stylekit-passive-color-0: #ffffff;
   --sn-stylekit-passive-color-1: #ffffff;
   --sn-stylekit-passive-color-3: #28292b;
